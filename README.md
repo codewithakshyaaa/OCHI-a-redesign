@@ -38,3 +38,36 @@ ochi-clone/
 │   └── main.jsx       
 ├── tailwind.config.js 
 └── package.json
+🚀 How to Run Locally
+To get a local copy of this project up and running on your machine, follow these simple steps[cite: 1]:
+
+Prerequisites
+Make sure you have Node.js installed on your computer[cite: 1].
+
+Installation
+Clone the repository:
+git clone https://github.com/codewithakshyaaa/OCHI-a-redesign.git
+
+Navigate to the project directory:
+cd OCHI-a-redesign
+
+Install dependencies:
+npm install
+
+Start the development server:
+npm run dev
+
+Open your browser and visit http://localhost:5173 to view the site[cite: 1].
+
+💡 Lessons Learned
+Building this clone highlighted the importance of Z-Index management and DOM structure when dealing with parallax sections[cite: 1]. The most significant challenge was orchestrating the overlap effects between sections, which required a deep understanding of relative positioning and the initialization lifecycle of the scroll engine[cite: 1].
+
+📬 Contact
+I am always open to feedback, discussions, or potential collaboration opportunities! Feel free to reach out:
+
+GitHub:https://github.com/codewithakshyaaa
+Email:akshyatiwary7@gmail.com
+Linkdln: https://www.linkedin.com/in/akshya-tiwary-2659b0371/
+
+Closing Statement
+This project was a rewarding challenge that allowed me to bridge the gap between creative design and high-performance engineering. It has significantly deepened my understanding of animation orchestration and the importance of performance-oriented development in modern web applications. Thank you for checking out my work[cite: 1]!
